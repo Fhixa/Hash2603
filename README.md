@@ -1,7 +1,7 @@
 # Hash2603 Readme
 
 Hash2603 is a versatile cryptographic hash function with variable output lengths and rounds. It can be used to generate hash codes for various purposes, including securing passwords and verifying sensitive information.
-
+### Remember, this single code can generate 108 type of hashes
 ## Usage
 
 To use Hash2603 to generate hash codes, follow these steps:
