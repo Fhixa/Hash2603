@@ -1,3 +1,5 @@
+![20230904_145757](https://github.com/ZenithSuite/Hash2603/assets/139548576/fcf092fb-c41c-4c69-86dd-7e15779daea5)
+
 # Hash2603 Readme
 
 Hash2603 is a versatile cryptographic hash function with variable output lengths and rounds. It can be used to generate hash codes for various purposes, including securing passwords and verifying sensitive information.
